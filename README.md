@@ -272,13 +272,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Chart.js for beautiful data visualization
 - All contributors and testers
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
+## 📞 Contact
 - Email: kadarikaushik078@gmail.com
-- Documentation: [Wiki](https://github.com/yourusername/school-management-system/wiki)
-
+  
 ## 🔄 Version History
 
 - **v1.0.0** - Initial release with core features
