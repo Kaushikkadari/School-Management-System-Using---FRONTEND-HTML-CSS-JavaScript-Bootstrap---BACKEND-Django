@@ -276,7 +276,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue on GitHub
-- Email: support@schoolmanagementsystem.com
+- Email: kadarikaushik078@gmail.com
 - Documentation: [Wiki](https://github.com/yourusername/school-management-system/wiki)
 
 ## 🔄 Version History
